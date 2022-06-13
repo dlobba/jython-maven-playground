@@ -1,0 +1,3 @@
+import amodule
+
+amodule.main()
